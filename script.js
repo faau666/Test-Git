@@ -1,1 +1,1 @@
-window.alert("Hackeado");
+window.alert("Jóia de Alerta");
